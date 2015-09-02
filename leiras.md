@@ -16,6 +16,9 @@ Egy opkg csomagkezelővel való frissítés után fel is telepíthetjük a nekü
 A NoDogSplash-t a(z) "/etc/nodogsplash" könyvtárban szabhatjuk személyre.
 A Config fájlban bő leírás van. A(z) "/etc/nodogsplash/htdocs/" könyvtárban lévő "splash.html" fog minket belépéskor fogadni.
 
+![Alt text](https://github.com/mZoltan05/freewifi/blob/master/nodogsplash.png "nodogsplash")
+
+
 
 
 
