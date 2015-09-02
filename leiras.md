@@ -11,6 +11,8 @@ Egy opkg csomagkezelővel való frissítés után fel is telepíthetjük a nekü
 
 ( https://github.com/nodogsplash/nodogsplash , http://wiki.openwrt.org/doc/howto/wireless.hotspot.nodogsplash)
 
+![Alt text](https://github.com/mZoltan05/freewifi/blob/master/OpenWrt.png "Optional title")
+
 
 
 
