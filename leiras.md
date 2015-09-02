@@ -1,4 +1,5 @@
 #Leírás
+#OpenWrt
 A projekt egy OpenWrt az eszközünkre való telepítésével kezdődik.
 (Támogatott eszközök listája:http://wiki.openwrt.org/toh/start , 
 Telepítéshez tartozó általános leírás: http://wiki.openwrt.org/hu/doc/howto/generic.flashing )
@@ -12,11 +13,19 @@ Egy opkg csomagkezelővel való frissítés után fel is telepíthetjük a nekü
 ( https://github.com/nodogsplash/nodogsplash , http://wiki.openwrt.org/doc/howto/wireless.hotspot.nodogsplash)
 
 ![Alt text](https://github.com/mZoltan05/freewifi/blob/master/sshOpenWrt.png "sshnopenwrt")
-
+#NoDogSplash
 A NoDogSplash-t a(z) "/etc/nodogsplash" könyvtárban szabhatjuk személyre.
 A Config fájlban bő leírás van. A(z) "/etc/nodogsplash/htdocs/" könyvtárban lévő "splash.html" fog minket belépéskor fogadni.
 
 ![Alt text](https://github.com/mZoltan05/freewifi/blob/master/nodogsplash.png "nodogsplash")
+
+Ha jelszóhoz akarjuk kötni a belépést, akkor a jelszót a config fájlban kell beállítanunk
+
+![Alt text](https://github.com/mZoltan05/freewifi/blob/master/nodogsplashpw.png "nodogsplashpw")
+
+A splash.html kódjának pedig valami hasonló képp kell kinéznie:
+
+![Alt text](https://github.com/mZoltan05/freewifi/blob/master/nodogsplashauth.png "nodogsplashauth")
 
 
 
