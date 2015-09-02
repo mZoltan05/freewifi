@@ -1,4 +1,7 @@
 #Leírás
-A projekt egy OpenWrt, az eszközünkre való telepítésével kezdődik.
+A projekt egy OpenWrt az eszközünkre való telepítésével kezdődik.
 (Támogatott eszközök listája:http://wiki.openwrt.org/toh/start , 
 Telepítéshez tartozó általános leírás: http://wiki.openwrt.org/hu/doc/howto/generic.flashing )
+Az OpenWrt néhány beállítását a WEB felületén keresztül(LuCi) könnyedén elvégezhetjük.
+
+
